@@ -122,7 +122,7 @@ cd your-repo-name
 ### 2. Unzip the "node_modules.zip"
 
 ```bash
-To get the node environment package in this folder
+To get the Node environment package in this folder
 ```
 
 ### 3. Install dependencies
