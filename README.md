@@ -122,7 +122,7 @@ cd your-repo-name
 ### 2. Unzip the "node_modules.zip"
 
 ```bash
-to get the node environment package in this folder
+To get the node environment package in this folder
 ```
 
 ### 3. Install dependencies
@@ -137,12 +137,20 @@ npm install
 npm run dev
 ```
 
-### 5. Open the app
+### 5. Open the website
 
 Open the URL shown in terminal (usually):
 
 ```text
 http://localhost:5173
+```
+
+### 6. Use the Render app
+
+Or you can use the Render app link to open the website directly, it should work:
+
+```text
+https://jiayi-zhu-project2.onrender.com
 ```
 
 ---
